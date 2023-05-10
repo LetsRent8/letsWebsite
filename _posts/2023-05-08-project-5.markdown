@@ -1,0 +1,15 @@
+---
+title: Santa Clara, CA
+subtitle: Living Room
+layout: default
+modal-id: 5
+date: 2023-05-08
+img: portfolio5-thumbnail.jpg
+thumbnail: portfolio5-thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
